@@ -2,7 +2,7 @@
 Pocket Hishab-Expense Tracker Android app </br>
 Hi there, </br>
 "পকেট হিসাব" is an expense managemnent android app to track your daily expenses.</br>
-This app was built as a Project for my University Course Project which I've done in Spring-2022 Session.</br>
+This app was built as a Project for my University Lab Course which I've completed in Spring-2022 Session.</br>
 Here's all the slides, hope you'll get proper idea what this app is about and what it does:</br>
 ![Slide1](https://user-images.githubusercontent.com/76777358/228824424-37e1258b-0b3c-4423-991d-2b68e858b211.PNG)
 ![Slide2](https://user-images.githubusercontent.com/76777358/228824459-f885013a-43d5-4161-8bb5-0c26adb016ea.PNG)
