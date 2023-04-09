@@ -12,7 +12,7 @@ Here's all the slides, hope you'll get proper idea what this app is about and wh
 ![Slide6](https://user-images.githubusercontent.com/76777358/228824535-f682ef8b-caf8-428f-98e6-037a2556ce08.PNG)
 ![Slide7](https://user-images.githubusercontent.com/76777358/228824538-c00efb6d-0410-4498-a258-c545d6999e44.PNG)
 ![Slide8](https://user-images.githubusercontent.com/76777358/228824542-2e55316d-b8c2-4892-a768-38d6cf7b1e6b.PNG)
-![Slide9](https://user-images.githubusercontent.com/76777358/228824546-15747e65-7749-44fe-b00f-60c90c7ad436.PNG)
+![Slide9](https://user-images.githubusercontent.com/76777358/230787135-ce68a4b2-7ef2-4dcb-ae7c-1be7c59fa299.PNG)
 ![Slide10](https://user-images.githubusercontent.com/76777358/228824549-dd2dc01d-0098-452c-9745-4218bab87a9b.PNG)
 ![Slide11](https://user-images.githubusercontent.com/76777358/228824555-59993d88-d60b-49ab-8ccc-57378d07143a.PNG)
 ![Slide12](https://user-images.githubusercontent.com/76777358/228824558-f95581bf-9cde-4213-8ce0-656774abf220.PNG)
