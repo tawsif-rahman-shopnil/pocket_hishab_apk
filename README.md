@@ -1,4 +1,5 @@
-![logo](https://user-images.githubusercontent.com/76777358/230794254-99959a78-2559-49dc-bb0a-f6811b5a8a96.png)
+![logo](https://user-images.githubusercontent.com/76777358/230794267-f82e3ec7-7b6f-48ee-a0d6-2e3d73227b66.png)
+
 
 Pocket Hishab-Expense Tracker Android app </br>
 Hi there, </br>
