@@ -1,5 +1,5 @@
+![logo](https://user-images.githubusercontent.com/76777358/230794254-99959a78-2559-49dc-bb0a-f6811b5a8a96.png)
 
-![logo](https://user-images.githubusercontent.com/76777358/230794239-3e4c4083-e717-4393-9e2b-01e24b53dbda.png)
 Pocket Hishab-Expense Tracker Android app </br>
 Hi there, </br>
 "পকেট হিসাব" is an expense managemnent android app to track your daily expenses.</br>
