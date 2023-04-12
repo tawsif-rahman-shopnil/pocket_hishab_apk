@@ -6,7 +6,7 @@ Hi there, </br>
 "পকেট হিসাব" is an expense managemnent android app to track your daily expenses.</br>
 This app was built as a Project for my University Lab Course which I've completed in Spring-2022 Session.</br>
 Here's all the slides, hope you'll get proper idea what this app is about and what it does:</br>
-![Slide1](https://user-images.githubusercontent.com/76777358/228824424-37e1258b-0b3c-4423-991d-2b68e858b211.PNG)
+![App Presentation](https://user-images.githubusercontent.com/76777358/231607861-9b1565a8-c56a-4126-bbb2-eaa1256a89d3.png)
 ![Slide2](https://user-images.githubusercontent.com/76777358/228824459-f885013a-43d5-4161-8bb5-0c26adb016ea.PNG)
 ![Slide3](https://user-images.githubusercontent.com/76777358/228824517-c7636e33-b7ce-417a-b1ca-39ac88fbc72f.PNG)
 ![Slide4](https://user-images.githubusercontent.com/76777358/228824529-3de40912-e36d-48d9-b6b7-21e2119866bf.PNG)
