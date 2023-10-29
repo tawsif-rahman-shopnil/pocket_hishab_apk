@@ -3,11 +3,14 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/pockethishab"
-        android:label="পকেট হিসাব"
-        android:roundIcon="@mipmap/pockethishab"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Pocket Hishab"
+        android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="true"
         android:theme="@style/Theme.ExpenseTrackerSystem">
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true" />
         <activity
             android:name=".PieChartIncome"
             android:exported="true" />
