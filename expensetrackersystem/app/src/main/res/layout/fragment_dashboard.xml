@@ -19,7 +19,7 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/logo"
+        android:background="@drawable/dashlogo"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="20dp"/>
 
@@ -129,7 +129,7 @@
         android:layout_marginTop="30dp"
         android:fontFamily="@font/baloo_da"
         android:text="Expense:"
-        android:textColor="@color/textColor"
+        android:textColor="@color/white"
         android:textSize="24sp" />
 
     <androidx.recyclerview.widget.RecyclerView
@@ -150,7 +150,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="16dp"
-        android:backgroundTint="@color/textColor"
+        android:backgroundTint="@color/black"
         android:src="@drawable/add"
         app:fabSize="normal"
         app:layout_constraintBottom_toBottomOf="parent"
