@@ -26,7 +26,7 @@
             android:layout_toRightOf="@id/tv_incomeDate"
             android:fontFamily="@font/baloo_da"
             android:text="Job"
-            android:textColor="@color/textColor"
+            android:textColor="@color/white"
             android:textSize="20sp"
             android:textStyle="bold" />
 
@@ -39,7 +39,7 @@
             android:layout_toRightOf="@id/tv_incomeDate"
             android:fontFamily="@font/baloo_da"
             android:text="Extra Income"
-            android:textColor="@color/textColor"
+            android:textColor="@color/white"
             android:textSize="20sp"
             android:textStyle="bold" />
 

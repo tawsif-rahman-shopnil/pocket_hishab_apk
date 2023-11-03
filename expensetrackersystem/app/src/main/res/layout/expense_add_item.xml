@@ -90,7 +90,7 @@
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:layout_weight="3"
-            android:hint="Note"
+            android:hint="Note (Ex:$)"
             android:textColor="@color/textColor"
             android:textSize="20sp" />
 
