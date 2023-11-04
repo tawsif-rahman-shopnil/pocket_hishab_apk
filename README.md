@@ -1,4 +1,5 @@
-![Pocket Hishab](https://github.com/tawsif-rahman-shopnil/pocket_hishab_apk/assets/76777358/441326be-c937-4c01-b685-0b2b74fde9f0)
+
+![Pocket Hishab](https://github.com/tawsif-rahman-shopnil/pocket_hishab_apk/assets/76777358/632e3ab8-9fbf-4420-9ee4-41e91a534bc4)
 
 # Pocket Hishab - Expense and Income Tracker Android App
 
@@ -18,6 +19,9 @@
 
 - **User-Friendly Interface**: The app offers an intuitive and easy-to-use interface, ensuring a seamless expense and income management experience.
 
+  ![P6YSG41](https://github.com/tawsif-rahman-shopnil/pocket_hishab_apk/assets/76777358/f75cf335-c218-42f9-ade9-72fae16ee661)
+
+
 ## Usage
 
 ### Expense Tracking
@@ -30,6 +34,7 @@
 
 4. **Edit and Delete Expenses**: Edit or delete previously recorded expenses for better financial management.
 
+
 ### Income Tracking
 
 1. **Add Income**: Record your income sources by specifying the source, amount, and date.
@@ -40,11 +45,19 @@
 
 4. **Edit and Delete Income Entries**: Edit or delete previously recorded income entries for accurate income tracking.
 
+   ![P6YSFN1](https://github.com/tawsif-rahman-shopnil/pocket_hishab_apk/assets/76777358/d58d2fdc-5345-4a25-8357-47cda94b8261)
+
+
+
+
 ## Dashboard
 
 - The dashboard provides an overview of your financial situation, displaying the total expenses and income.
 
 - Visualize your spending and income patterns through a pie chart, making it easier to understand your financial situation.
+
+  ![P6YSFN1](https://github.com/tawsif-rahman-shopnil/pocket_hishab_apk/assets/76777358/3c1a12bc-9e45-4df5-8abf-e6c7ec58ad7b)
+
 
 ## Get Started
 
