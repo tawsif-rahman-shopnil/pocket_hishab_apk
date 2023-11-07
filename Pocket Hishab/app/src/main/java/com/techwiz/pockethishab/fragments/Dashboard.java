@@ -152,7 +152,7 @@ public class Dashboard extends Fragment {
 
         expenseAdapter = new expenseAdapter(getContext(), expenseModelList);
         rv_expense.setLayoutManager(new LinearLayoutManager(getContext(), LinearLayoutManager.HORIZONTAL, false));
-        rv_expense.setHasFixedSize(true);
+        rv_expense.setHasFixedSize(false);
 
         rv_expense.setAdapter(expenseAdapter);
     }
@@ -169,7 +169,7 @@ public class Dashboard extends Fragment {
 
         incomeAdapter = new incomeAdapter(getContext(), incomeModelList);
         rv_income.setLayoutManager(new LinearLayoutManager(getContext(), LinearLayoutManager.HORIZONTAL, false));
-        rv_income.setHasFixedSize(true);
+        rv_income.setHasFixedSize(false);
 
         rv_income.setAdapter(incomeAdapter);
 

@@ -13,13 +13,13 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.techwiz.pockethishab.DatabaseHandlerExpense;
-import com.techwiz.pockethishab.PieChart;
 import com.techwiz.pockethishab.R;
 import com.techwiz.pockethishab.adapter.expenseAdapter2;
 import com.techwiz.pockethishab.model.expenseModel;
 
 import java.util.ArrayList;
 import java.util.List;
+
 
 /**
  * A simple {@link Fragment} subclass.
@@ -85,13 +85,6 @@ public class Expense extends Fragment {
 
         init(view);
 
-        iv_expensePie.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(getContext(), PieChart.class));
-            }
-        });
-
         fillExpense();
 
         return view;
@@ -108,7 +101,7 @@ public class Expense extends Fragment {
 
         expenseAdapter = new expenseAdapter2(getContext(), expenseModelList, databaseHandlerExpense);
         rvExpense.setLayoutManager(new LinearLayoutManager(getContext()));
-        rvExpense.setHasFixedSize(true);
+        rvExpense.setHasFixedSize(false);
 
         rvExpense.setAdapter(expenseAdapter);
     }
@@ -116,7 +109,6 @@ public class Expense extends Fragment {
     private void init(View view) {
         tvExpense = view.findViewById(R.id.tvExpense);
         rvExpense = view.findViewById(R.id.rvExpense);
-        iv_expensePie = view.findViewById(R.id.iv_expensePie);
         databaseHandlerExpense = new DatabaseHandlerExpense(getContext());
     }
 

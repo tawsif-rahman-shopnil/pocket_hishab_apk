@@ -37,7 +37,7 @@
         android:layout_marginTop="15dp"
         android:layout_marginBottom="20dp"
         android:fontFamily="@font/baloo_da"
-        android:text=" "
+        android:text=""
         android:textColor="@color/white"
         android:textSize="28sp" />
 
@@ -73,16 +73,6 @@
                 android:textSize="24sp" />
 
         </LinearLayout>
-
-        <ImageView
-            android:id="@+id/iv_expensePie"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:layout_alignParentEnd="true"
-            android:layout_centerVertical="true"
-            android:layout_marginRight="16dp"
-            android:background="@drawable/pichartico"
-            app:tint="@color/purple_200" />
 
     </RelativeLayout>
 

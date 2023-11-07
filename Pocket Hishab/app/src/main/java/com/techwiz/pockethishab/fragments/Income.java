@@ -13,19 +13,12 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.techwiz.pockethishab.DatabaseHandler;
-import com.techwiz.pockethishab.PieChartIncome;
 import com.techwiz.pockethishab.R;
 import com.techwiz.pockethishab.adapter.incomeAdapter2;
 import com.techwiz.pockethishab.model.incomeModel;
 
 import java.util.ArrayList;
 import java.util.List;
-
-/**
- * A simple {@link Fragment} subclass.
- * Use the {@link Income#newInstance} factory method to
- * create an instance of this fragment.
- */
 public class Income extends Fragment {
 
     // TODO: Rename parameter arguments, choose names that match
@@ -85,13 +78,6 @@ public class Income extends Fragment {
 
         init(view);
 
-        iv_expensePie.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(getContext(), PieChartIncome.class));
-            }
-        });
-
         fillExpense();
 
         return view;
@@ -108,7 +94,7 @@ public class Income extends Fragment {
 
         expenseAdapter = new incomeAdapter2(getContext(), incomeModelList, databaseHandler);
         rvIncome.setLayoutManager(new LinearLayoutManager(getContext()));
-        rvIncome.setHasFixedSize(true);
+        rvIncome.setHasFixedSize(false);
 
         rvIncome.setAdapter(expenseAdapter);
     }
@@ -116,8 +102,8 @@ public class Income extends Fragment {
     private void init(View view) {
         tvIncome = view.findViewById(R.id.tv_income);
         rvIncome = view.findViewById(R.id.rv_income);
-        iv_expensePie = view.findViewById(R.id.iv_expensePie);
         databaseHandler = new DatabaseHandler(getContext());
     }
+
 
 }
