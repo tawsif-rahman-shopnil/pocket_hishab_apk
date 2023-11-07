@@ -45,9 +45,6 @@
 
 4. **Edit and Delete Income Entries**: Edit or delete previously recorded income entries for accurate income tracking.
 
-   ![P6YSFN1](https://github.com/tawsif-rahman-shopnil/pocket_hishab_apk/assets/76777358/d58d2fdc-5345-4a25-8357-47cda94b8261)
-
-
 
 
 ## Dashboard
@@ -56,7 +53,6 @@
 
 - Visualize your spending and income patterns through a pie chart, making it easier to understand your financial situation.
 
-  ![P6YSFN1](https://github.com/tawsif-rahman-shopnil/pocket_hishab_apk/assets/76777358/3c1a12bc-9e45-4df5-8abf-e6c7ec58ad7b)
 
 
 ## Get Started
