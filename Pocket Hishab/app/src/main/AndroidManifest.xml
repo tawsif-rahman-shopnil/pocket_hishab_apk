@@ -18,12 +18,6 @@
         </intent-filter>
     </activity>
     <activity
-        android:name=".PieChartIncome"
-        android:exported="true" />
-    <activity
-        android:name=".PieChart"
-        android:exported="true" />
-    <activity
         android:name=".MainActivity"
         android:exported="true" />
 
